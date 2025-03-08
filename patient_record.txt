@@ -1,0 +1,6 @@
+IC Number: 
+Name: 
+Address: 
+Contact No: Age: 
+Gender:
+Birth State: 

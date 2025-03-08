@@ -1,0 +1,5 @@
+Patient Registration Summary:
+IC Number: 
+Name: 
+Address: 
+Contact No: 

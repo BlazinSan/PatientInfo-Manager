@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1714821668 source:c:\users\hason\downloads\o\assignment i\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
